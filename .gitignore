@@ -61,3 +61,6 @@ tsconfig.tsbuildinfo
 tsconfig.node.tsbuildinfo
 
 *vue2.6-vite
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
